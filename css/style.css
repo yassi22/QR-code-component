@@ -30,6 +30,7 @@ h1{
     text-align: center;
     font-size: 1.3em;
     color:hsl(218, 44%, 22%);
+    max-width: 80%;
 } 
 
 p{ 
@@ -38,7 +39,7 @@ p{
     font-family: 'Nabla', sans-serif; 
     color:hsl(220, 15%, 55%);
     font-size:1em; 
-    max-width: 85%;
+    max-width: 80%;
 
 }
 
