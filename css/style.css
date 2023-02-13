@@ -30,9 +30,14 @@ h1{
     text-align: center;
 } 
 
+p{ 
+    font-weight: 400;
+    text-align: center;
+}
+
 .image{ 
-    width: 100px;
-    height: 100px; 
+    width: 90%;
+    margin:10px 10px 10px 10px;
     border-radius: 10px; 
     justify-content: center;
 }
